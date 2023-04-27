@@ -1,0 +1,60 @@
+.head{
+    margin-left: 60px;
+    background-color: #008CBA;
+    
+    padding:0px;
+    cursor: pointer;
+    padding: 5px;
+    font-family: 'Poppins', sans-serif;
+    
+    
+    
+}
+#navbar  :hover{
+    
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+}
+
+#content{
+    height: 525px;
+    width: 85%;
+    background-color: rgb(150, 225, 228);
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+#anc{
+     
+    text-decoration: none;
+}
+#footer{
+    background-color: cornflowerblue;
+    width: auto;
+    height: 30px;
+    padding-bottom: 15px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#sidemenu{
+    background-color: darkslategray;
+    font-family: 'Poppins', sans-serif;
+    width: 210px;
+}
+#sidemenu a {
+    color: white;
+}
+ul li {
+    padding: 10px;
+}
+.getbtn{
+    background-color: skyblue;
+    height: 40px;
+    cursor: pointer;
+    padding: 6px;
+    font-family: 'Poppins', sans-serif;
+}
