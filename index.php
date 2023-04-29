@@ -35,7 +35,7 @@
             </h1>
             <br>
             <div style="margin-left: 10px;">
-                <button class="getbtn">Get a call back now →</button>
+                <a href="Contact.php"><button class="getbtn">Get a call back now →</button></a>
             </div>
             
                     

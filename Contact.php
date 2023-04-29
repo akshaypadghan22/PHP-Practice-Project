@@ -25,7 +25,7 @@
     <div id="content"  >
        <div >
     
-   Contact Us:
+    <h2> Contact Us</h2>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, labore impedit cumque, numquam quos sint, quod dolore nihil veritatis pariatur laudantium perspiciatis. Ut nobis molestiae delectus pariatur, repudiandae sapiente saepe.
              
  </div>     
