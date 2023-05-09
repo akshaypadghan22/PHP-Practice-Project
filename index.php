@@ -23,14 +23,14 @@
 <?php include "navbar.php" ?>
     <div style="display: flex;">
     <div id="content"  >
-       <div >
+       <div style="margin-top: 50px">
         
-            <h1 style="display: flex; margin-left: 10px ; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+            <h1 style="margin:20px; display: flex; margin-left: 10px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
                  TRANSFORM YOUR VISION INTO A <br> BEAUTIFULLY CRAFTED HOME
                  <br><br>
                     Build Your Dream Home <br> with Confidence: Our <br> Turnkey Solutions <br> Guarantee Quality and <br> Value
                 
-                 <img src="https://www.buildahome.in/_next/image?url=https%3A%2F%2Fwww.buildahome.in%2Fwp%2Fwp-content%2Fuploads%2F2023%2F02%2Fwebhomepic.webp&w=1920&q=75" alt="">
+                 <img  src="https://www.buildahome.in/_next/image?url=https%3A%2F%2Fwww.buildahome.in%2Fwp%2Fwp-content%2Fuploads%2F2023%2F02%2Fwebhomepic.webp&w=1920&q=75" alt="">
             
             </h1>
             <br>
@@ -38,11 +38,11 @@
                 <a href="Contact.php"><button class="getbtn">Get a call back now →</button></a>
             </div>
             
-                    
+              
         </div>     
-                 
+        <?php include "sidemenu.php"?>      
     </div>
-    <?php include "sidemenu.php"?>
+    
 
 </div>
     <?php include "footer.php"?>

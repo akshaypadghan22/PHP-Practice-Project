@@ -7,8 +7,6 @@
     padding: 5px;
     font-family: 'Poppins', sans-serif;
     
-    
-    
 }
 #navbar  :hover{
     
@@ -18,8 +16,9 @@
 }
 
 #content{
-    height: 525px;
-    width: 85%;
+    
+    height: 600px;
+    width: auto;
     background-color: rgb(150, 225, 228);
     display: flex;
     font-family: 'Poppins', sans-serif;
@@ -32,7 +31,7 @@
     background-color: cornflowerblue;
     width: auto;
     height: auto;
-    padding-bottom: 15px;
+    
     font-family: 'Poppins', sans-serif;
     
 }
@@ -43,7 +42,7 @@ a{
 #sidemenu{
     background-color: darkslategray;
     font-family: 'Poppins', sans-serif;
-    width: 210px;
+    width: 300px;
 }
 #sidemenu a {
     color: white;

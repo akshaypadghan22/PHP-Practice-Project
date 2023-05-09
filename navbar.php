@@ -5,7 +5,7 @@
         <p class="head"><a class="anc" href="services.php">Services</a></p>
         <p class="head"><a class="anc" href="About.php">About</a></p>
         <p class="head"><a class="anc" href="Contact.php">Contact</a></p>
-        <p class="head" style="margin-left: 650px; "><a class="anc" href="login.php">Logout</a></p>
+        <p class="head" style="margin-left: 700px; "><a class="anc" href="login.php">Logout</a></p>
     </div>
     
 </div>
